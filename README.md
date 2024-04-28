@@ -1,5 +1,9 @@
 # Sales-Analytics-FMCG-
 Created 2 reports for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
+
+![Project Tumbnail](https://github.com/Shankeykapasia/Sales-Analytics-FMCG-/assets/140109263/f1799f8f-7a5a-4c0c-9d1b-0436849713f7)
+
+
 Project Description:
 
 
